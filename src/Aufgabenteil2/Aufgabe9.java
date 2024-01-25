@@ -31,7 +31,7 @@ public class Aufgabe9 {
         int delta = scanner.nextInt();
 
         System.out.println("Wertetabelle für die Funktion: ");
-        ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICaZJNqrDbKYSzYSaDoY6NA0l2qHR7Iarommu10ARL83 ayyoub.ag@gmail.com
+
         for (int x = xmin ; x <= xmax ; x += delta) {
             double funktionswert = 0;
             int exponent = grad;
